@@ -23,5 +23,9 @@ public class MainActivity extends AppCompatActivity {
 		for (int i = 0; i < 10; i++){
 			System.out.println("Yolo is a a lebn");
 		}
+		//Useless shit
+		if (10 == 10){
+			System.out.println("WTF is this if?");
+		}
     }
 }
