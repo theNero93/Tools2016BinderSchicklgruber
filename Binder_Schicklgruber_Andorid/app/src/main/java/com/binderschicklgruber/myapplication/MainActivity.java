@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void thisIsANewMethod(){
+		System.out.println("yoloSwagIsNice");
 
     }
 }
