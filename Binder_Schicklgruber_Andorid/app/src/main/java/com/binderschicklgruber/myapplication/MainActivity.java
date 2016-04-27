@@ -13,6 +13,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void thisIsANewMethod(){
+<<<<<<< HEAD
 		System.out.println("Hello Schicki");
+=======
+		System.out.println("yoloSwagIsNice");
+
+>>>>>>> ed7ba434f7d309e787dabd3032270f0529fc4ed4
     }
 }
