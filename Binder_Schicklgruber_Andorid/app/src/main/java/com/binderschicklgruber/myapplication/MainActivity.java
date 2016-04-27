@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     public void thisIsANewMethod(){
 
 		System.out.println("Hello Schicki");
-
+		
 		System.out.println("yoloSwagIsNice");
 
 		System.out.println("dfd");
@@ -27,5 +27,8 @@ public class MainActivity extends AppCompatActivity {
 		if (10 == 10){
 			System.out.println("WTF is this if?");
 		}
+		System.out.println("Really complicated and scientific Bug Fix. KEK");
+		System.out.println("so much bugfix");
+		System.out.println("many failures");System.out.println("many failures");
     }
 }
