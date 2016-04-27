@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
 
 		System.out.println("dfd");
 		
-
+		for (int i = 0; i < 10; i++){
+			System.out.println("Yolo is a a lebn");
+		}
     }
 }
